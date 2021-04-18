@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <title>UPI Request Money | Utkrasht Solutions</title>
-      <link rel="shortcut icon" href="fav.ico">
+      <link rel="shortcut icon" href="images/fav.ico">
    </head>
    <style type="text/css">
       body{
@@ -53,10 +53,10 @@
       <center>
          <div class="card">
             <div class="card-content">
-               <a href="https://utkrashtsolutions.in"><img src="logo.png" height="100"></a>
+               <a href="https://utkrashtsolutions.in"><img src="images/logo.png" height="100"></a>
                <h3 style="color: #2C3335; margin: 10px;">Scan Qr or Click on Pay Now :</h3>
                <canvas id="qr" style="margin-top: 5px; margin-bottom: 5px;"></canvas>
-               <img src="upi.png" height="100">
+               <img src="images/upi.png" height="100">
                <br>
                <hr style="color: #2C333F; width: 90%;">
                <p style="color: #FF3031"><?php echo $pay ?> is requesting money</p>

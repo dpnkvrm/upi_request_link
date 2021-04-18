@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <title>UPI Request Money | Utkrasht Solutions</title>
-      <link rel="shortcut icon" type="image/ico" href="fav.ico">
+      <link rel="shortcut icon" type="image/ico" href="images/fav.ico">
    </head>
    <style type="text/css">
       body{
@@ -42,10 +42,10 @@
       <center>
          <div class="card">
             <div class="card-content">
-               <a href="https://utkrashtsolutions.in"><img src="logo.png" height="100"></a>
+               <a href="https://utkrashtsolutions.in"><img src="images/logo.png" height="100"></a>
                <br>
                <h4 style="color: #2C3335;">Create UPI Payment Request Link </h4>
-               <img src="upi.png" height="100">
+               <img src="images/upi.png" height="100">
                <br>
 	       <form action="">
 		  <label style="color: #2C3335;">Enter Payee Name:</label><br>
